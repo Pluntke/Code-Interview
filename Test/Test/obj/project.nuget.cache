@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvv9Zyb+s9nlUkQXZeinBbgUkVRXZdzLk17PWEWeMytSaqKqQ3B4MF7RJi5FVNaiLfVUSeFTcNaKqghOisDxLA==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plunt\\.nuget\\packages\\csvhelper\\32.0.3\\csvhelper.32.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

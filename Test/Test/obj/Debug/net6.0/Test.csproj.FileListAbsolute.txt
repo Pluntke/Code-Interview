@@ -1,0 +1,17 @@
+C:\Source\Test\Test\bin\Debug\net6.0\Test.exe
+C:\Source\Test\Test\bin\Debug\net6.0\Test.deps.json
+C:\Source\Test\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\Source\Test\Test\bin\Debug\net6.0\Test.dll
+C:\Source\Test\Test\bin\Debug\net6.0\ref\Test.dll
+C:\Source\Test\Test\bin\Debug\net6.0\Test.pdb
+C:\Source\Test\Test\bin\Debug\net6.0\CsvHelper.dll
+C:\Source\Test\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+C:\Source\Test\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Test\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Source\Test\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Source\Test\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\Source\Test\Test\obj\Debug\net6.0\Test.csproj.CopyComplete
+C:\Source\Test\Test\obj\Debug\net6.0\Test.dll
+C:\Source\Test\Test\obj\Debug\net6.0\ref\Test.dll
+C:\Source\Test\Test\obj\Debug\net6.0\Test.pdb
+C:\Source\Test\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
